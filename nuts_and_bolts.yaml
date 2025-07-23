@@ -1,0 +1,9 @@
+train: train/images
+val:  valid/images
+test: test/images
+
+# number of classes
+nc: 2
+
+# class names
+names: ["bolt", "nut"]
